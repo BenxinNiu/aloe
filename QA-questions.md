@@ -73,7 +73,7 @@ bonus: six-sigma
 ## 21. When would you give a conditional sign off? 
 must mention that you understand the risk and have solid rationale for backing up your decision. and make an example
 
-## 22. How would you divide the responsibility between developer and QA?
+## 22. How would you divide the responsibility of testing between developer and QA?
 :) 
 
 ## 23. what are the effective ways of catching defects early in development phases
