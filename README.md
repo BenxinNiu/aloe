@@ -12,7 +12,7 @@ updated June 21st, 2020
 1. No news is a good news
 
 # Table of Content
-1. [Angular 8+](./angular/index)
-2. [Java with Spring (Tutoring)](./java-with-spring/index)
+1. [Angular 8+](./angular/learning)
+2. [Java with Spring (Tutoring)](./java/learning/index)
 3. [failure vault](./)
-4. [set up guide](./)
+4. [Interview prep](./interview/index)
